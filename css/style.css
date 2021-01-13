@@ -1,0 +1,56 @@
+
+body{
+    font-family: "Verdana", sans-serif;
+    color:#F7F5F0;
+    background-color:#213147;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    width: 700px;
+}
+
+h1{
+    font-weight:normal;
+    font-size:2.5rem;
+  }
+  
+#subtitle{
+    font-weight:normal;
+    font-size:1.7rem;
+    color:#B3B0AA;
+    padding-top:1.5rem;
+  }
+h2{
+    font-weight:normal;
+    font-size:1.7rem;
+    padding-top:1.5rem;
+}
+
+
+.contrast-subheaders{
+    font-weight:normal;
+    font-size:1.3rem;
+    padding-top:1.5rem;
+}
+
+#author{
+    font-weight:normal;
+    font-size:1.3rem;
+    padding-bottom:1.5rem;
+  }
+
+/* unvisited link */
+a:link {
+    color:#B3B0AA;
+  }
+  
+  /* visited link */
+  a:visited {
+    color:#B3B0AA;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color:#F7F5F0;
+  }
